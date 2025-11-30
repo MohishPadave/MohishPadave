@@ -1,92 +1,92 @@
+<!-- Header Banner -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" />
 </div>
-
-###
 
 <br clear="both">
 
 <h1 align="center">Hi, I’m Mohish Padave</h1>
 
-###
-
+<!-- Profile Image -->
 <div align="center">
-  <img height="100" src="https://raw.githubusercontent.com/MohishPadave/MohishPadave/a4abcafd46d64f4e61eb6f6813f7895f97e86b85/1727533950052.jpeg"  />
+  <img height="130" style="border-radius:10px;" src="https://raw.githubusercontent.com/MohishPadave/MohishPadave/main/1727533950052.jpeg" />
 </div>
 
-###
+<br/>
 
-<p align="left">I am a Full-Stack Developer who loves building fast, reliable, and visually polished digital experiences. I work across the MERN stack, enjoy solving real problems with clean engineering, and focus on writing code that’s maintainable, scalable, and actually enjoyable to work with.</p>
+<!-- Intro Text -->
+<p align="center" style="max-width: 700px; margin:auto;">
+  I am a Full-Stack Developer who loves building fast, reliable, and visually polished digital experiences.  
+  I work across the MERN stack, enjoy solving real problems with clean engineering, and love writing code that's maintainable, scalable, and enjoyable to work with.
+</p>
 
-###
+<br/>
+<!-- Tech Stack & Tools — single guaranteed row (table) -->
+<h2 align="center">Tech Stack & Tools</h2>
 
+<table align="center" cellpadding="6" cellspacing="0">
+  <tr>
+ <!-- Skillicons (always work) -->
+    <td><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" /></td>
+  <td><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /></td>
+
+  <td><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></td>
+
+   <td><img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" /></td>
+
+  </tr>
+</table>
+
+<br/>
+
+<!-- Social Badges -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/mohish-padave" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mohish-padave" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <a href="mohish.padave@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=My&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+
+  <a href="mailto:mohish.padave@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=My&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+
+  <a href="https://codepen.io" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=Profile&color=000000&logoColor=white&style=for-the-badge" height="28" alt="Codepen" />
+  </a>
 </div>
 
-###
+<br/>
 
+<!-- Stats Section -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohishPadave&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MohishPadave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohishPadave&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak stats" />
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app?username=MohishPadave&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophies" />
 </div>
 
-###
+<br/>
 
+<!-- Pacman Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohishPadave/MohishPadave/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohishPadave/MohishPadave/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohishPadave/MohishPadave/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohishPadave/MohishPadave/output/pacman-contribution-graph.svg" />
 </picture>
 
-###
+<br/>
 
+<!-- Footer Banner -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&theme=cobalt" />
 </div>
-
-###
